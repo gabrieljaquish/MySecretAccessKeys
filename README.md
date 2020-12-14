@@ -1,5 +1,5 @@
 # My Companies Secret Access Keys
-A Public Repository Containing All of My Secret Keys In Plain Text. 
+A Public Github Repository containing code I'm developing, and maybe somthing else aswell. 
 
 ![Key To The City](images/KeyToTheCity.gif)
 
